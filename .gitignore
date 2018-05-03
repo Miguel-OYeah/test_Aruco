@@ -1,3 +1,11 @@
+# Build folder
+build/
+# VS code properties
+.vscode/
+
+# Hidden files
+.directory
+
 # Prerequisites
 *.d
 
